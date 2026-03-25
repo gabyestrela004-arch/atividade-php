@@ -13,3 +13,6 @@ O site também poderá ter uma função de reserva de produtos ou aviso de lanç
 Após selecionar os produtos, o usuário poderá finalizar a compra informando seus dados e escolhendo a forma de pagamento. O sistema também poderá mostrar o histórico de pedidos do usuário.
 
 O objetivo do site é oferecer uma plataforma simples e organizada para que os usuários possam visualizar jogos, verificar preços e realizar compras de forma prática e rápida.
+
+## Diagrama: 
+![Diagrama UML](imagem-exemplo-uml.png)
